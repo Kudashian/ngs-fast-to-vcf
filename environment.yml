@@ -1,0 +1,13 @@
+name: ngs
+channels:
+  - bioconda
+dependencies:
+  - bcftools
+  - bwa
+  - fastp
+  - fastqc
+  - nextflow
+  - samtools
+  - seqkit
+
+prefix: "/home/kudashian/miniforge3/envs/ngs"
